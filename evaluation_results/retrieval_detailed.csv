@@ -1,0 +1,61 @@
+query,expected,category,hit,top_k
+What is BeautifulSoup used for?,beautifulsoup4,Web Scraping,True,1
+How to create a pandas DataFrame?,pandas,Data Processing,True,1
+What is NumPy?,numpy,Numerical Computing,True,1
+How to use TensorFlow for deep learning?,tensorflow,Deep Learning,False,1
+What is PyTorch?,torch,Deep Learning,False,1
+How to plot graphs with matplotlib?,matplotlib,Visualization,False,1
+What is scikit-learn?,scikit-learn,Machine Learning,False,1
+How to use XGBoost for classification?,xgboost,Machine Learning,False,1
+What is SHAP and how does it explain models?,shap,Interpretability,False,1
+How to track ML experiments with MLflow?,mlflow,MLOps,False,1
+How to create interactive visualizations with Plotly?,plotly,Visualization,False,1
+What is spaCy used for?,spacy,NLP,False,1
+How to use OpenCV for image processing?,opencv-python,Computer Vision,False,1
+What is LightGBM?,lightgbm,Machine Learning,False,1
+How to optimize hyperparameters with Optuna?,optuna,Machine Learning,False,1
+What is BeautifulSoup used for?,beautifulsoup4,Web Scraping,True,3
+How to create a pandas DataFrame?,pandas,Data Processing,True,3
+What is NumPy?,numpy,Numerical Computing,True,3
+How to use TensorFlow for deep learning?,tensorflow,Deep Learning,False,3
+What is PyTorch?,torch,Deep Learning,False,3
+How to plot graphs with matplotlib?,matplotlib,Visualization,False,3
+What is scikit-learn?,scikit-learn,Machine Learning,False,3
+How to use XGBoost for classification?,xgboost,Machine Learning,False,3
+What is SHAP and how does it explain models?,shap,Interpretability,False,3
+How to track ML experiments with MLflow?,mlflow,MLOps,False,3
+How to create interactive visualizations with Plotly?,plotly,Visualization,False,3
+What is spaCy used for?,spacy,NLP,False,3
+How to use OpenCV for image processing?,opencv-python,Computer Vision,False,3
+What is LightGBM?,lightgbm,Machine Learning,False,3
+How to optimize hyperparameters with Optuna?,optuna,Machine Learning,False,3
+What is BeautifulSoup used for?,beautifulsoup4,Web Scraping,True,5
+How to create a pandas DataFrame?,pandas,Data Processing,True,5
+What is NumPy?,numpy,Numerical Computing,True,5
+How to use TensorFlow for deep learning?,tensorflow,Deep Learning,False,5
+What is PyTorch?,torch,Deep Learning,False,5
+How to plot graphs with matplotlib?,matplotlib,Visualization,False,5
+What is scikit-learn?,scikit-learn,Machine Learning,False,5
+How to use XGBoost for classification?,xgboost,Machine Learning,False,5
+What is SHAP and how does it explain models?,shap,Interpretability,False,5
+How to track ML experiments with MLflow?,mlflow,MLOps,False,5
+How to create interactive visualizations with Plotly?,plotly,Visualization,False,5
+What is spaCy used for?,spacy,NLP,False,5
+How to use OpenCV for image processing?,opencv-python,Computer Vision,False,5
+What is LightGBM?,lightgbm,Machine Learning,False,5
+How to optimize hyperparameters with Optuna?,optuna,Machine Learning,False,5
+What is BeautifulSoup used for?,beautifulsoup4,Web Scraping,True,10
+How to create a pandas DataFrame?,pandas,Data Processing,True,10
+What is NumPy?,numpy,Numerical Computing,True,10
+How to use TensorFlow for deep learning?,tensorflow,Deep Learning,False,10
+What is PyTorch?,torch,Deep Learning,False,10
+How to plot graphs with matplotlib?,matplotlib,Visualization,False,10
+What is scikit-learn?,scikit-learn,Machine Learning,False,10
+How to use XGBoost for classification?,xgboost,Machine Learning,False,10
+What is SHAP and how does it explain models?,shap,Interpretability,False,10
+How to track ML experiments with MLflow?,mlflow,MLOps,False,10
+How to create interactive visualizations with Plotly?,plotly,Visualization,False,10
+What is spaCy used for?,spacy,NLP,False,10
+How to use OpenCV for image processing?,opencv-python,Computer Vision,False,10
+What is LightGBM?,lightgbm,Machine Learning,False,10
+How to optimize hyperparameters with Optuna?,optuna,Machine Learning,False,10
